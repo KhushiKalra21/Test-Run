@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+
+# NLP dependencies
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.4.0/en_core_web_lg-3.4.0-py3-none-any.whl
+
+# Database
+sqlite3
+
+# Data visualization (optional but recommended for Streamlit)
+matplotlib
+plotly
